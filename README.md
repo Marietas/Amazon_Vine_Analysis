@@ -43,8 +43,9 @@ Through this analysis the follwoing question could be responded:
 ![image](https://user-images.githubusercontent.com/76540704/115175330-cbd2e000-a098-11eb-8aee-a9163bac6618.png)
 
 - Non-Vine Reviews
+ 
 ![image](https://user-images.githubusercontent.com/76540704/115175466-06d51380-a099-11eb-9917-4a95b1cb93c2.png)
 
-
+##Summary
 
 
