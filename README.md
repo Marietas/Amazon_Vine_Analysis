@@ -10,8 +10,9 @@ In order to develop this evaluation, the following tools were utilized:
 
 ## Results
 
-Through this analysis the following question could be responded:
+Through this analysis the follwoing question could be responded:
 
 (i) Total number of Reviews (Vine and non-Vine reviews)
 
  - Vine
+![image](https://user-images.githubusercontent.com/76540704/115174674-ac878300-a097-11eb-9d79-93ad40c5be90.png)
