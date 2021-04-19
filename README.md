@@ -46,6 +46,12 @@ Through this analysis the follwoing question could be responded:
  
 ![image](https://user-images.githubusercontent.com/76540704/115175466-06d51380-a099-11eb-9917-4a95b1cb93c2.png)
 
-##Summary
+## Summary
+
+- The majority of reviews for the Health Personal Care Section are considerably low results from Vine participants: ~ 62% are Non-Vine.
+- The five stars reviews follows also the tendency ~ 74500 reviews are from Non-Vine.
+
+Based on the data analyzed for the Health Personal Care Section, I would conclude that there is no benefits bias for reviews in the Vine program.
+
 
 
