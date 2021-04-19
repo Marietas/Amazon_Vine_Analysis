@@ -12,7 +12,7 @@ In order to develop this evaluation, the following tools were utilized:
 
 Through this analysis the follwoing question could be responded:
 
-(i) Total number of Reviews (Vine and non-Vine reviews)
+(i) Total Number of Reviews (Vine and non-Vine reviews)
 
  - Vine
 
