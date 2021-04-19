@@ -27,3 +27,11 @@ Through this analysis the follwoing question could be responded:
 
 (ii) Total of Five stars Reviews (Vine and non-Vine)
 
+- Vine Reviews
+
+![image](https://user-images.githubusercontent.com/76540704/115175019-494a2080-a098-11eb-9ced-adef6e55a13e.png)
+
+- Non-Vine Reviews
+
+![image](https://user-images.githubusercontent.com/76540704/115175090-67178580-a098-11eb-9807-556f72b1a25b.png)
+
