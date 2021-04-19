@@ -18,3 +18,10 @@ Through this analysis the follwoing question could be responded:
 
 
 ![image](https://user-images.githubusercontent.com/76540704/115174674-ac878300-a097-11eb-9d79-93ad40c5be90.png)
+
+
+Non-Vine
+
+![image](https://user-images.githubusercontent.com/76540704/115174795-e6588980-a097-11eb-936a-83141e195b56.png)
+
+
